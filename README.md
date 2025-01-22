@@ -46,8 +46,8 @@
         {
           "users": {
             "user_email_or_uid": {
-              "favorites": {
-                "favorite_id": {
+              "bookmarks": {
+                "bookmark_id": {
                   "title": "My Favorite Website",
                   "url": "https://www.example.com"
                 }
